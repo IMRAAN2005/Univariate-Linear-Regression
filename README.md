@@ -48,7 +48,8 @@ plt.show()
 
 ```
 ## Output
-![image](https://github.com/IMRAAN2005/Univariate-Linear-Regression/assets/149347407/159bc8f7-3957-4bed-a510-9e7a551b2064)
+![image](https://github.com/IMRAAN2005/Univariate-Linear-Regression/assets/149347407/006cc9e7-39cd-4047-93ee-9c01543a439d)
+
 
 ## In Graphical Method:
 ![image](https://github.com/IMRAAN2005/Univariate-Linear-Regression/assets/149347407/a10ce6ee-5d82-4bd6-a988-e2022bd854f1)
